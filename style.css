@@ -1,0 +1,24 @@
+img{
+    height: 350px;
+    width: 300px;
+}
+
+*{
+  text-align: center;
+}
+
+*{
+  font-style: italic;
+}
+
+#Heading{
+  font-style: initial;
+}
+
+h3{
+    font-size: x-large;
+}
+
+#Reason{
+    font-weight: normal;
+}
