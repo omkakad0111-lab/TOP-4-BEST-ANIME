@@ -12,7 +12,7 @@ img{
 }
 
 #Heading{
-  font-style: initial;
+  font-style: initial; color: rgb(226, 192, 0);
 }
 
 h3{
@@ -21,4 +21,12 @@ h3{
 
 #Reason{
     font-weight: normal;
+}
+
+.Reasoncolor{
+    color: rgb(225, 192, 6);
+}
+
+.Animename{
+    background-color: #F5DEB3;
 }
